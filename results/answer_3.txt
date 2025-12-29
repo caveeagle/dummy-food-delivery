@@ -1,0 +1,14 @@
+|----------------------------|--------------------------|-------------------|
+| Name                       | Address                  | City              |
+|----------------------------|--------------------------|-------------------|
+| Kebap - Pizza De Brug      | Sint-Truidersteenweg 46  | Hasselt           |
+| De Echte Eethuis Carlos    | Herseltsesteenweg 207    | Aarschot          |
+| Trend Kebab & Pizzeria     | Marktstraat 1            | Maaseik           |
+| The Black Horse            | Bergstraat 36            | Heist-op-den-Berg |
+| Pyramide                   | Stationsstraat 61        | Hamont            |
+| Baskent Meerhout           | Bevrijdingslaan 231a     | Meerhout          |
+| More pizza's               | De Biezen 26             | Merksem           |
+| Pizzeria Zirar Saint-Denis | Chaussee de Bruxelles 10 | Forest            |
+| Domino's Pizza             | Markt 77                 | Geel              |
+| Pizzeria 1357              | Rue des Juifs 2          | Helecine          |
+|----------------------------|--------------------------|-------------------|
