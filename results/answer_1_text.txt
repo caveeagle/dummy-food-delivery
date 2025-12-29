@@ -1,0 +1,13 @@
+
+Summary statistics:
+
+Number of items:403013
+
+Mean: 9.97
+Median: 9.0
+
+Minimum: 0.0
+Minimum (non-zero): 0.01
+
+Maximum: 150.0
+Mode (peak value): 12.0
