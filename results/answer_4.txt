@@ -1,0 +1,12 @@
+|--------------------------|-------------------------------------------|--------------------|----------------|
+| Name                     | Address                                   |   Avg. price, Euro |   Distance, km |
+|--------------------------|-------------------------------------------|--------------------|----------------|
+| Oumi Sushi               | Woodrow Wilsonplein (Shopping Zuid) 4/101 |                 13 |           0.08 |
+| Asian King               | Nederkouter 135                           |                 11 |           0.56 |
+| Yokoso                   | Voldersstraat 17A                         |                 20 |           0.7  |
+| Asian Corner Takeaway    | Sint-Niklaasstraat 32                     |                 10 |           0.75 |
+| Tokyo Sushi              | Botermarkt 10                             |                 14 |           0.76 |
+| Ocean Sushi              | Belfortstraat 31                          |                 11 |           0.87 |
+| Japans Restaurant Amatsu | Hoogpoort 29                              |                 38 |           0.91 |
+| Twilightsushi            | Korenmarkt 36                             |                 13 |           0.99 |
+|--------------------------|-------------------------------------------|--------------------|----------------|
