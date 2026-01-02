@@ -21,12 +21,15 @@ We can see the distribution on the map:
 
 ![](results/answer_2_map.png)
 
+- 
+  **All points are located in Flanders — this is a limitation of the dataset.**
 
-All points are located in Flanders — this is a limitation of the dataset.
 
-The highest concentration of restaurants is found in major cities (Brussels, Antwerp, and Ghent), along major roads, and along the coast.
+- **The highest concentration of restaurants is found in major cities (Brussels, Antwerp, and Ghent), along major roads, and along the coast.**
 
-Some restaurants are located outside Belgium — most likely because cross-border delivery operates in small towns near the border.
+
+- **Some restaurants are located outside Belgium — most likely because cross-border delivery operates in small towns near the border.**
+
 
 ### 3. Which are the top 10 pizza restaurants by rating?
 
@@ -65,9 +68,8 @@ I found only 8 restaurants located near my home (within 1 km). Below are their a
 ### 5. Which restaurants in Flanders have the best price-to-rating ratio?
 
 The best restaurant which have the best price-to-rating ratio:
- 
-Restaurant: 'El Bocadillos' 
-Address: Galerie Ravenstein 11, Bruxelles
-Euro per rating's star: 0.47
 
+**Restaurant: 'El Bocadillos'  
+Address: Galerie Ravenstein 11, Bruxelles  
+Euro per rating's star: 0.47 **  
 
